@@ -44,14 +44,14 @@ export default function Footer6({ }) {
                                                         <div className="d-flex align-items-center">
                                                             <div className="icon trans">
                                                                 <i aria-hidden="false" className="far fa-arrow-alt-circle-right" /></div>
-                                                            <Link className="links" href="#">Privacy Policy</Link>
+                                                            <Link className="links" href="/privacy_policy">Privacy Policy</Link>
                                                         </div>
                                                     </li>
                                                     <li>
                                                         <div className="d-flex align-items-center">
                                                             <div className="icon trans">
                                                                 <i aria-hidden="false" className="far fa-arrow-alt-circle-right" /></div>
-                                                            <Link className="links" href="#">Terms & Condition</Link>
+                                                            <Link className="links" href="terms_condition">Terms & Condition</Link>
                                                         </div>
                                                     </li>
                                                     <li>
@@ -84,6 +84,7 @@ export default function Footer6({ }) {
                             </div>
                             <div className="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                 <div className="footer_widgets_box pd_bottom_30">
+                                    <p>News Letter</p>
                                 <div className="newsteller_simple style_two">
                                         <div className="input_group">
                                             <form method="post">
@@ -97,7 +98,7 @@ export default function Footer6({ }) {
                                     {/*-============spacing==========-*/}
                                     <div className="pd_bottom_25" />
                                     {/*-============spacing==========-*/}
-                                    <div className="social-icons">
+                                    {/* <div className="social-icons">
                                         <ul>
                                             <li>
                                                 <Link href="#" className="m_icon">
@@ -120,7 +121,7 @@ export default function Footer6({ }) {
                                                 </Link>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
