@@ -40,7 +40,7 @@ export default function Header6({ handleSearch, handleOptionalPanel, handleMobil
                                                         <div className="icon trans">
                                                             <i className=" fi-rs-time-oclock" /></div>
                                                         <Link className="links" href="#">
-                                                            Mon - Frii(9.00 - 6.00) Sat,Sun - Closed </Link>
+                                                            Mon - Fri(9.00 - 18.00)</Link>
                                                     </div>
                                                 </li>
                                             </ul>
