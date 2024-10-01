@@ -40,7 +40,7 @@ export default function NavbarNav() {
 
 
                 <li className="menu-item nav-item ">
-                    <Link href="/" className="nav_link">
+                    <Link href="/contact" className="nav_link">
                         <span className="text-link"> Contact Us </span>
                     </Link>
                 </li>

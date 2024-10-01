@@ -58,7 +58,7 @@ export default function Footer6({ }) {
                                                         <div className="d-flex align-items-center">
                                                             <div className="icon trans">
                                                                 <i aria-hidden="false" className="far fa-arrow-alt-circle-right" /></div>
-                                                            <Link className="links" href="#">Contact Us</Link>
+                                                            <Link className="links" href="/contact">Contact Us</Link>
                                                         </div>
                                                     </li>
                                                     <li>
