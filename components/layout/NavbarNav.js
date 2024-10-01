@@ -13,20 +13,20 @@ export default function NavbarNav() {
                 </li>
 
                 <li className="menu-item nav-item mennucolumn_full-six">
-                    <Link href="/" className="nav_link">
+                    <Link href="/product_and_service" className="nav_link">
                         <span className="text-link"> Product & Services </span>
                     </Link>
                 </li>
 
-                <li className="menu-item nav-item mennucolumn_full-six">
+                {/* <li className="menu-item nav-item mennucolumn_full-six">
                     <Link href="/" className="nav_link">
                         <span className="text-link"> Export </span>
                     </Link>
-                </li>
+                </li> */}
 
 
                 <li className="menu-item nav-item mennucolumn_full-six">
-                    <Link href="/" className="nav_link">
+                    <Link href="/brand" className="nav_link">
                         <span className="text-link"> Brand & Suppliers </span>
                     </Link>
                 </li>
