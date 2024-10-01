@@ -33,7 +33,7 @@ export default function NavbarNav() {
 
 
                 <li className="menu-item nav-item mennucolumn_full-six">
-                    <Link href="/" className="nav_link">
+                    <Link href="/about-us" className="nav_link">
                         <span className="text-link"> About US </span>
                     </Link>
                 </li>
