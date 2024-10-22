@@ -27,12 +27,7 @@ export default function MobileMenu({ handleMobileMenu, isMobileMenu }) {
                                 <Link href="mailto:info@ic-foods.co.uk" className="cnt">
                                     <i className="fi-rs-envelope" />info@ic-foods.co.uk</Link>
                             </div>
-                            <div className="single-mobile-header-info">
-                                <Link href="#" className="theme_btn tp_one">Contact</Link>
-                            </div>
-                            <div className="single-mobile-header-info">
-                                <Link href="#" className="theme_btn">Service</Link>
-                            </div>
+                           
                         </div>
                     </nav>
                 </div>
