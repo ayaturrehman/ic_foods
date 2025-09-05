@@ -26,9 +26,9 @@ export default function Content7() {
                         </div>
                         <div className="col-lg-7 col-md-12 pd_left_40">
                             <div className="section_title type_one">
-                                <h4 className="sm_title"> Who We Supply</h4>
+                                <h4 className="sm_title">System Benefits</h4>
                                 <div className="title_whole">
-                                    <h2 className="title"> Serving Businesses Across Multiple Sectors</h2>
+                                    <h2 className="title">Transforming UK School Transport Through Technology</h2>
                                 </div>
                             </div>
                             {/*-============spacing==========-*/}

@@ -5,9 +5,10 @@ export default function Document() {
         <Html lang="en">
             <Head />
             <link rel="shortcut icon" href="/assets/images/favicon.ico" />
-            <title>I C FOODS LTD - Your Trusted Wholesale Partner for Quality Products</title>
+            <title>UK School Transport Management System - Modern Transport Solutions</title>
             <link rel="preconnect" href="https://fonts.bunny.net" />
             <link href="https://fonts.bunny.net/css?family=dm-sans:400,400i,500,500i,700,700i" rel="stylesheet" />
+            <link rel="stylesheet" href="/assets/css/transport-system.css" />
             <body className='theme-vankine scrollbarcolor'>
                 <Main />
                 <NextScript />

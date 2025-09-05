@@ -13,35 +13,32 @@ export default function NavbarNav() {
                 </li>
 
                 <li className="menu-item nav-item mennucolumn_full-six">
-                    <Link href="/product_and_service" className="nav_link">
-                        <span className="text-link"> Product & Services </span>
+                    <Link href="/eligibility" className="nav_link">
+                        <span className="text-link"> Eligibility & Applications </span>
                     </Link>
                 </li>
-
-                {/* <li className="menu-item nav-item mennucolumn_full-six">
-                    <Link href="/" className="nav_link">
-                        <span className="text-link"> Export </span>
-                    </Link>
-                </li> */}
-
 
                 <li className="menu-item nav-item mennucolumn_full-six">
-                    <Link href="/brand" className="nav_link">
-                        <span className="text-link"> Brand & Suppliers </span>
+                    <Link href="/route-optimization" className="nav_link">
+                        <span className="text-link"> Route Planning </span>
                     </Link>
                 </li>
-
 
                 <li className="menu-item nav-item mennucolumn_full-six">
-                    <Link href="/about-us" className="nav_link">
-                        <span className="text-link"> About US </span>
+                    <Link href="/fleet-management" className="nav_link">
+                        <span className="text-link"> Fleet Management </span>
                     </Link>
                 </li>
 
+                <li className="menu-item nav-item mennucolumn_full-six">
+                    <Link href="/financial-management" className="nav_link">
+                        <span className="text-link"> Financial Management </span>
+                    </Link>
+                </li>
 
                 <li className="menu-item nav-item ">
                     <Link href="/contact" className="nav_link">
-                        <span className="text-link"> Contact Us </span>
+                        <span className="text-link"> Contact </span>
                     </Link>
                 </li>
 
