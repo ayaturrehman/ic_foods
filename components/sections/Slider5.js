@@ -38,22 +38,21 @@ export default function Slider5() {
                                     <div className="col-md-7">
                                         <div className="slider_content">
                                             <h6 className="animate_up">
-                                                <img src="/assets/images/slider/Icon-white.png" className="img-fluid" alt="icon" /> Welcome to I C FOODS LTD
+                                                <img src="/assets/images/slider/Icon-white.png" className="img-fluid" alt="icon" /> UK School Transport Management System
 
                                             </h6>
-                                            <h1 className="animate_left">Your Trusted <br />
-                                            Wholesale Partner</h1>
+                                            <h1 className="animate_left">Modern School <br />
+                                            Transport Solutions</h1>
                                             <div className="button_all animate_down">
-                                                <Link href="#" className="theme_btn color_white  animated">Read
-                                                    More</Link>
+                                                <Link href="/eligibility" className="theme_btn color_white  animated">Apply for Transport</Link>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div className="extra_content_box" style={{ backgroundImage: 'url(assets/images/line.png)' }}>
-                                <p>At I C FOODS LTD, we are dedicated to connecting businesses with high-quality, diverse goods. Based in Doncaster, our wholesale operations cater to a wide range of sectors, ensuring fast, reliable service every time.</p>
-                                <Link href="#">Chat With Us</Link>
+                                <p>The UK School Transport Management System provides comprehensive, technology-driven solutions for local authorities managing home-to-school transport. Our platform addresses the financial, operational, and social challenges of school transport through integrated modules for eligibility, route optimization, and fleet management.</p>
+                                <Link href="/contact">Get Support</Link>
                             </div>
                         </div>
                     </SwiperSlide>

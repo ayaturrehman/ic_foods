@@ -32,7 +32,7 @@ export default function Header6({ handleSearch, handleOptionalPanel, handleMobil
                                                         <div className="icon trans">
                                                             <i className=" fi-rr-map-marker-home" /></div>
                                                         <Link className="links" href="#">
-                                                        122 Chequer Road, Doncaster, England, DN1 2AW</Link>
+                                                        UK School Transport Authority</Link>
                                                     </div>
                                                 </li>
                                                 <li className="ms-4">
@@ -40,7 +40,7 @@ export default function Header6({ handleSearch, handleOptionalPanel, handleMobil
                                                         <div className="icon trans">
                                                             <i className=" fi-rs-time-oclock" /></div>
                                                         <Link className="links" href="#">
-                                                            Mon - Fri(9.00 - 18.00)</Link>
+                                                            Mon - Fri(8.00 - 17.00) School Transport Hours</Link>
                                                     </div>
                                                 </li>
                                             </ul>
